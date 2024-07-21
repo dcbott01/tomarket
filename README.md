@@ -20,6 +20,9 @@ Install with python
 
 ## Features
 
-- Auto Farming
-- Auto Play Game
-- Multi Account
+    - Auto Checkin
+    - Auto Claim
+    - Auto Farming
+    - Auto Playing Game
+    - Auto Get token
+    - Multi Account
