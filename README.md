@@ -1,4 +1,5 @@
 TOMARKET BOT
+Register : https://t.me/Tomarket_ai_bot/app?startapp=00002jCY
 
 ## Installation
 
@@ -16,8 +17,6 @@ Install with python
 
 ## Features
 
-- Auto 1x Tap 
-- Auto Use Energy Refill
-- Auto Use Chest
-- Auto Get Free Chest
+- Auto Farming
+- Auto Play Game
 - Multi Account
